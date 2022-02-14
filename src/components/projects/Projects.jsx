@@ -61,7 +61,7 @@ export default function Projects() {
           <h4>Tech Stack</h4>
           <p>HTML5 . CSS . JavaScript . Localstorage</p>
           <div className="card_btn">
-            <button><a target="_blank" href="https://tumblrclone.netlify.app/">DEMO</a></button>
+            <button><a target="_blank" href="https://lakme-clone.vercel.app/">DEMO</a></button>
             <button><a target="_blank" href=" https://github.com/nkil123/lakme_clone"> CODE</a></button>
           </div>
         </div>
