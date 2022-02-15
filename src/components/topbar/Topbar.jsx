@@ -28,7 +28,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
           
             
             </div>
-               <div className="itemContainer" onClick={() => window.open("assets/Resume1.pdf", "_blank")}>
+               <div className="itemContainer" onClick={() => window.open("assets/shashiResume.pdf", "_blank")}>
               <span style={{ display: "flex" }}><GetAppIcon style={{height:"18px",margin:"2px",borderBottom:"none"}}/>  Resume</span>
           
             

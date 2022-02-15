@@ -12,7 +12,7 @@ export default function Intro() {
       showCursor: true,
       backDelay: 1500,
       backSpeed:60,
-      strings: ["software Engineer", "Full-Stack Web Developer"],
+      strings: ["Software Engineer", "Full-Stack Web Developer"],
     });
   }, []);
 
@@ -26,7 +26,7 @@ export default function Intro() {
             a <span ref={textRef}></span>
           </h3>
           <h3 style={{ marginTop: "10px" }}>I'm from Patna,Bihar</h3>
-          <button className="btn" onClick={() => window.open("assets/Resume1.pdf", "_blank")}><span><DescriptionIcon style={{height:"17px", width:"20px"}}/></span>Resume</button>
+          <button className="btn" onClick={() => window.open("assets/shashiResume.pdf", "_blank")}><span><DescriptionIcon style={{height:"17px", width:"20px"}}/></span>Resume</button>
         </div>
         <a href="#portfolio">
           <img src="assets/down.png" alt="" />
@@ -35,7 +35,7 @@ export default function Intro() {
       <div className="left">
         <div className="imgContainer">
           
-          <img src="assets/ShashiKumar.png.jpeg" alt="" />
+          <img src="assets/ShashiKr.jpeg" alt="" />
         </div>
       </div>
      

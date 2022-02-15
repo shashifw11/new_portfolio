@@ -41,7 +41,7 @@ export default function Projects() {
           <h4>Tech Stack</h4>
           <p>HTML . CSS . Javascript . Local Storage</p>
           <div className="card_btn">
-            <button><a target="_blank" href="https://priceline-clone.vercel.app">DEMO</a></button>
+            <button><a target="_blank" href="https://shashikfc.netlify.app/">DEMO</a></button>
             <button><a target="_blank" href="https://github.com/shashifw11/SHASHIKFC-"> CODE</a></button>
           </div>
         </div>
