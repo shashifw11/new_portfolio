@@ -56,7 +56,8 @@ export default function Projects() {
         <div className="pinf">
         <h3>LAKME(clone)</h3>
           <p>
-            A clone of Zoomcar is a self-drive car rental service.
+          Lakmé was the country's first cosmetic brand to introduce make up to Indian women.
+        
             </p>
           <h4>Tech Stack</h4>
           <p>HTML5 . CSS . JavaScript . Localstorage</p>
