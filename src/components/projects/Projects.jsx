@@ -20,7 +20,7 @@ export default function Projects() {
           <h4>Tech Stack</h4>
           <p>HTML5 . CSS3 . Javascript  . Mongodb . Nodejs . expressjs </p>
           <div className="card_btn">
-            <button><a target="_blank" href="https://6207593a277c5a6a13a46205--agitated-archimedes-5fa0fb.netlify.app/">DEMO</a></button>
+            <button><a target="_blank" href="3.82.160.93:2345/home">DEMO</a></button>
             <button><a target="_blank" href="https://github.com/Raosandeep007/Zoom-Car-Clone"> CODE</a></button>
           </div>
         </div>
