@@ -17,7 +17,7 @@ export default function Projects() {
           Disney+ Hotstar is India’s largest premium streaming platform.
            </p>
           <h4>Tech Stack</h4>
-          <p>React,JavaScript,MongoDB,Node Js,Express Js,CSS,Material Ui,FireBase</p>
+          <p>React . JavaScript . MongoDB . Node Js . Express Js . CSS . Material Ui . FireBase</p>
           <div className="card_btn">
             <button><a target="_blank" href="https://hotstarclonereact.netlify.app/">DEMO</a></button>
             <button><a target="_blank" href="https://github.com/shashifw11/hotstar-project-"> CODE</a></button>
