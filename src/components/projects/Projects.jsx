@@ -5,7 +5,27 @@ export default function Projects() {
   return (
     <div className="projects" id="projects">
       <h1>Projects</h1>
-      <div className="line"></div>
+      <div className="line"></div>  
+
+      <div className="pcards">
+        <div className="pimg">
+          <img src={"assets/hotstar_homepage.png"} alt="" />
+        </div>
+        <div className="pinf">
+        <h3>KFC(clone)</h3>
+          <p>
+          Disney+ Hotstar is India’s largest premium streaming platform.
+           </p>
+          <h4>Tech Stack</h4>
+          <p>React,JavaScript,MongoDB,Node Js,Express Js,CSS,Material Ui,FireBase</p>
+          <div className="card_btn">
+            <button><a target="_blank" href="https://hotstarclonereact.netlify.app/">DEMO</a></button>
+            <button><a target="_blank" href="https://github.com/shashifw11/hotstar-project-"> CODE</a></button>
+          </div>
+        </div>
+      </div>
+
+
       <div className="pcards">
         <div className="pimg">
           <img src={"assets/ZoomCar-homepage.png"} alt="" />
