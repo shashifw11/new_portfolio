@@ -12,7 +12,7 @@ export default function Projects() {
           <img src={"assets/hotstar_homepage.png"} alt="" />
         </div>
         <div className="pinf">
-        <h3>KFC(clone)</h3>
+        <h3>Disney+ Hotstar(clone)</h3>
           <p>
           Disney+ Hotstar is India’s largest premium streaming platform.
            </p>
