@@ -23,6 +23,24 @@ export default function Projects() {
             <button><a target="_blank" href="https://github.com/shashifw11/hotstar-project-"> CODE</a></button>
           </div>
         </div>
+      </div>  
+
+      <div className="pcards">
+        <div className="pimg">
+          <img src={"assets/ecom.png"} alt="" />
+        </div>
+        <div className="pinf">
+        <h3>Ecommerce</h3>
+          <p>
+           Self made ecommerce website using React 
+           </p>
+          <h4>Tech Stack</h4>
+          <p>React . JavaScript  . CSS . Material Ui . React-Bootstrap</p>
+          <div className="card_btn">
+            <button><a target="_blank" href="https://ecommerce-project-beta.vercel.app/">DEMO</a></button>
+            <button><a target="_blank" href="https://github.com/shashifw11/Ecommerce-Project"> CODE</a></button>
+          </div>
+        </div>
       </div>
 
 
