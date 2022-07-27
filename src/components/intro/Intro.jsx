@@ -26,7 +26,7 @@ export default function Intro() {
             a <span ref={textRef}></span>
           </h3>
           <h3 style={{ marginTop: "10px" }}>I'm from Patna,Bihar</h3>
-          <button className="btn" onClick={() => window.open("assets/shashiResume.pdf", "_blank")}><span><DescriptionIcon style={{height:"17px", width:"20px"}}/></span>Resume</button>
+          <button className="btn" onClick={() => window.open("assets/Shashi_kumar_fw11_220.pdf", "_blank")}><span><DescriptionIcon style={{height:"17px", width:"20px"}}/></span>Resume</button>
         </div>
         <a href="#portfolio">
           <img src="assets/down.png" alt="" />
