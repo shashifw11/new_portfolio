@@ -9,6 +9,25 @@ export default function Projects() {
 
       <div className="pcards">
         <div className="pimg">
+          <img src={"assets/weatherapp.png"} alt="image" />
+        </div>
+        <div className="pinf">
+        <h3>Weather Forecast App</h3>
+          <p>
+          This is self made weather forecast app. It prediction of what the atmosphere will be like in a particular place . 
+          In other words, it's a way of predicting things like cloud cover, rain, snow, wind speed, and temperature before they happen.
+           </p>
+          <h4>Tech Stack</h4>
+          <p>React . Material Ui . React-Bootstrap . ChakraUI . REST API</p>
+          <div className="card_btn">
+            <button><a target="_blank" href="https://shashi-weather-app-react80.vercel.app/">DEMO</a></button>
+            <button><a target="_blank" href="https://github.com/shashifw11/Weather-App"> CODE</a></button>
+          </div>
+        </div>
+      </div>  
+
+      <div className="pcards">
+        <div className="pimg">
           <img src={"assets/hotstar_homepage.png"} alt="" />
         </div>
         <div className="pinf">
