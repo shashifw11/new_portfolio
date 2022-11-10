@@ -15,31 +15,13 @@ export default function Projects() {
         <h3>Weather Forecast App</h3>
           <p>
           This is self made weather forecast app. It prediction of what the atmosphere will be like in a particular place . 
-          In other words, it's a way of predicting things like cloud cover, rain, snow, wind speed, and temperature before they happen.
+          In other words, it is  predict the things like cloud cover, rain, snow, wind speed, and temperature before they happen.
            </p>
           <h4>Tech Stack</h4>
           <p>React . Material Ui . React-Bootstrap . ChakraUI . REST API</p>
           <div className="card_btn">
             <button><a target="_blank" href="https://shashi-weather-app-react80.vercel.app/">DEMO</a></button>
             <button><a target="_blank" href="https://github.com/shashifw11/Weather-App"> CODE</a></button>
-          </div>
-        </div>
-      </div>  
-
-      <div className="pcards">
-        <div className="pimg">
-          <img src={"assets/hotstar_homepage.png"} alt="" />
-        </div>
-        <div className="pinf">
-        <h3>Disney+ Hotstar(clone)</h3>
-          <p>
-          Disney+ Hotstar is India’s largest premium streaming platform.
-           </p>
-          <h4>Tech Stack</h4>
-          <p>React . JavaScript . MongoDB . Node Js . Express Js . CSS . Material Ui . FireBase</p>
-          <div className="card_btn">
-            <button><a target="_blank" href="https://hotstarclonereact.netlify.app/">DEMO</a></button>
-            <button><a target="_blank" href="https://github.com/shashifw11/hotstar-project-"> CODE</a></button>
           </div>
         </div>
       </div>  
@@ -61,9 +43,45 @@ export default function Projects() {
           </div>
         </div>
       </div>
-
+     
+      <div className="pcards">
+        <div className="pimg">
+          <img src={"assets/KFC-homepage.png"} alt="" />
+        </div>
+        <div className="pinf">
+        <h3>KFC(clone)</h3>
+          <p>
+           KFC is a fast-food brand and quick-serve restaurant
+             specializing in fried chicken.
+           </p>
+          <h4>Tech Stack</h4>
+          <p>HTML . CSS . Javascript . Local Storage</p>
+          <div className="card_btn">
+            <button><a target="_blank" href="https://shashikfc.netlify.app/">DEMO</a></button>
+            <button><a target="_blank" href="https://github.com/shashifw11/SHASHIKFC-"> CODE</a></button>
+          </div>
+        </div>
+      </div>
 
       <div className="pcards">
+        <div className="pimg">
+          <img src={"assets/hotstar_homepage.png"} alt="" />
+        </div>
+        <div className="pinf">
+        <h3>Disney+ Hotstar(clone)</h3>
+          <p>
+          Disney+ Hotstar is India’s largest premium streaming platform.
+           </p>
+          <h4>Tech Stack</h4>
+          <p>React . JavaScript . MongoDB . Node Js . Express Js . CSS . Material Ui . FireBase</p>
+          <div className="card_btn">
+            <button><a target="_blank" href="https://hotstarclonereact.netlify.app/">DEMO</a></button>
+            <button><a target="_blank" href="https://github.com/shashifw11/hotstar-project-"> CODE</a></button>
+          </div>
+        </div>
+      </div>  
+
+     <div className="pcards">
         <div className="pimg">
           <img src={"assets/ZoomCar-homepage.png"} alt="" />
         </div>
@@ -85,24 +103,7 @@ export default function Projects() {
           
       
 
-       <div className="pcards">
-        <div className="pimg">
-          <img src={"assets/KFC-homepage.png"} alt="" />
-        </div>
-        <div className="pinf">
-        <h3>KFC(clone)</h3>
-          <p>
-           KFC is a fast-food brand and quick-serve restaurant
-             specializing in fried chicken.
-           </p>
-          <h4>Tech Stack</h4>
-          <p>HTML . CSS . Javascript . Local Storage</p>
-          <div className="card_btn">
-            <button><a target="_blank" href="https://shashikfc.netlify.app/">DEMO</a></button>
-            <button><a target="_blank" href="https://github.com/shashifw11/SHASHIKFC-"> CODE</a></button>
-          </div>
-        </div>
-      </div>
+       
 
       
 
